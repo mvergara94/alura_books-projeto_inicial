@@ -29,9 +29,9 @@ Website Fictício criado com o intuito de praticar e desenvolver metodos de arra
 - Live Site URL: [Click Here](https://mvergara94.github.io/alura_books-projeto_inicial/)
 
 
-## My process
+## Processo
 
-### Built with
+### Feito com
 
 - HTML & CSS
 - JS DOM
